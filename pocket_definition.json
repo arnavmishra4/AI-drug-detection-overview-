@@ -1,0 +1,11 @@
+{
+  "pdb_id": "5Y9T",
+  "target": "EGFR",
+  "centroid": [
+    -0.4569755792617798,
+    49.55599594116211,
+    -17.663633346557617
+  ],
+  "radius": 10.0,
+  "extraction_method": "ligand_based"
+}
