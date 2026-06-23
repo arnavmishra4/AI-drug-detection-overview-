@@ -300,31 +300,5 @@ MIT License - feel free to use for educational purposes.
 
 ---
 
-## 💡 Interview Talking Points
-
-**When presenting this project:**
-
-1. **"I built an end-to-end pipeline that demonstrates production system design"**
-   - Data ingestion → processing → prioritization → output
-   - Not just model training, but the full workflow
-
-2. **"I made pragmatic engineering trade-offs"**
-   - Used validated scaffolds vs. training diffusion (scope management)
-   - Focused on multi-objective optimization logic
-   - Prioritized what adds value in 2-hour timeline
-
-3. **"I used industry-standard tools and metrics"**
-   - Lipinski (27 years of validation)
-   - PAINS (FDA-recognized)
-   - Same code pharma companies run
-
-4. **"I understand where AI fits in drug discovery"**
-   - Generative models for novel chemistry
-   - GNNs for potency prediction
-   - But heuristics still matter (QED, SA)
-
----
-
-**Built with ❤️ for computational drug discovery**
 
 *Last Updated: January 2026*
